@@ -1,2 +1,2 @@
-# EnocRick
-EnochRick's Personal repository.
+# EnochRick
+Test Of readme. Blarg
