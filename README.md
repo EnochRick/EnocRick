@@ -7,3 +7,7 @@ If you see anything here that might need some help or have suggestions for me, f
 I am currently working for [Albireo Energy](https://www.albireoenergy.com/solutions/beyond-analytics/) where I continue to attack the built environment's carbon footprint with a team of programmers that I am proud to be a part of. 
 
 Cheers, EnochRick. 
+
+
+##Some of my writing:
+[Making HVAC Systems Efficient – The Case for Widespread Adoption of ASHRAE Guideline 36, Submitted to ACEEE 2020 Summer Study](https://www.linkedin.com/pulse/making-hvac-systems-efficient-case-widespread-ashrae-36-stehmeyer/)
